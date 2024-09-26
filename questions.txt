@@ -9,7 +9,7 @@
 		ii. It's more simple now that the classes are seperated.
 		iii. Yes
 		iv. Yes
-3. Yes
+3. No, we are running into issues with "name". It was originally protected and couldnt be accessed
 4. 
 	a. Yes
 	b. No
@@ -18,4 +18,8 @@
 		ii. It is already very simple
 		iii. Yes
 		iv. Yes
-5. Yes
+5. No, we are still having issues :( 
+
+We all got a better understanding of git from this assignment. 
+
+Blaine Seaman, Zach Hamby, Marion Office
