@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <iostream>
-#include "Animal.h" 
+#include "animal.h" 
 #include "Shelter.h"
 
 int main(){
@@ -20,13 +20,13 @@ int main(){
         case 1: //Add Dog or Cat to list of animals
             std::cout << "Please enter the animals info \n";
             std::cin >> name;
-            Shelter1 -> addAnimal(Animal* animal);
+            //shelter1.addAnimal(Animal* animal);
             break;
         
         case 2: // Remove Animal by name
             std::cout << "Please enter the animals name: \n";
             std::cin >> name;
-            Shelter1 -> removeAnimal(std::string name);
+            shelter1.removeAnimal(std::string name);
             break;
 
         case 3: // Display all animals

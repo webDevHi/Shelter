@@ -3,9 +3,9 @@
 #include <string>
 #include <set>
 #include "Shelter.h"
-#include "Animal.h" 
-#include "Cat.h"   
-#include "Dog.h"    
+#include "animal.h" 
+#include "cat.h"   
+#include "dog.h"    
 
 
         void Shelter::displayAnimals() {

@@ -3,7 +3,7 @@
 
 #include <vector>
 #include <string>
-#include "Animal.h" // Include the base class header
+#include "animal.h" // Include the base class header
 
 class Shelter {
     public:

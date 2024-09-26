@@ -2,7 +2,7 @@
 #include <iostream>
 
 // Constructor to initialize attributes
-dog::Dog(const std::string& name, int age, const std::string& breed)
+Dog::Dog(const std::string& name, int age, const std::string& breed)
     : Animal(name, age, "Dog"), breed(breed) {}
 
 // Override displayInfo to show breed
