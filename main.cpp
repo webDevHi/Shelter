@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <iostream>
+#include "Animal.h" 
+#include "Shelter.h"
 
 int main(){
     //Variable Declaration
-    //Shelter shelter1;
+    Shelter shelter1;
     int n = -1;
     std::string name;
 
@@ -18,13 +20,13 @@ int main(){
         case 1: //Add Dog or Cat to list of animals
             std::cout << "Please enter the animals info \n";
             std::cin >> name;
-            // ShelterClass addAnimal(Animal* animal);
+            Shelter1 -> addAnimal(Animal* animal);
             break;
         
         case 2: // Remove Animal by name
             std::cout << "Please enter the animals name: \n";
             std::cin >> name;
-            //ShelterClass removeAnimal(std::string name);
+            Shelter1 -> removeAnimal(std::string name);
             break;
 
         case 3: // Display all animals

@@ -1,7 +1,7 @@
 #ifndef DOG_H
 #define DOG_H
 
-#include "Animal.h"
+#include "animal.h"
 #include <string>
 
 class Dog : public Animal {

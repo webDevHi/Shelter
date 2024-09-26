@@ -1,7 +1,7 @@
 #ifndef CAT_H
 #define CAT_H
 
-#include "Animal.h"
+#include "animal.h"
 #include <string>
 
 class Cat : public Animal {
