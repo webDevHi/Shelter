@@ -1,0 +1,21 @@
+1. No
+2. 
+	a. Yes
+	b. Classes were not working together because many classes were either capitalized when they werent supposed to be or vice versa, making include statements not work properly.
+
+	Dog, cat and animal classes were seperated into .h and .cpp files for simplicity. 
+	c.
+		i. Yes
+		ii. It's more simple now that the classes are seperated.
+		iii. Yes
+		iv. Yes
+3. Yes
+4. 
+	a. Yes
+	b. No
+	c.
+		i. Yes
+		ii. It is already very simple
+		iii. Yes
+		iv. Yes
+5. Yes
